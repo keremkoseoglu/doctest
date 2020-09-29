@@ -1,5 +1,5 @@
 site_name: Doc test
-
+theme: readthedocs
 nav:
     - Home: index.md
     - About: about.md
